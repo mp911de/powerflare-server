@@ -5,7 +5,7 @@ The powerflare-server can control 4 Powerflares <http://www.powerflare.de> using
 
 Connection Schema for one channel
 -------------
-![Connection Schema](connection-schema.png "Connection Schema")
+![Connection Schema](https://raw.github.com/mp911de/powerflare-server/master/connection-schema.png "Connection Schema")
 
 Drivers
 -------------
